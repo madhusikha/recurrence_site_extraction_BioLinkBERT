@@ -23,3 +23,6 @@ Send an email to `mbsikha@gmail.com` requesting the link for downloading the mod
 
 For inference, run the following command:
 >python inference.py
+
+### Model generalization
+Although this model was trained on breast cancer dataset, it also performed well when tested on prostate cancer dataset.
