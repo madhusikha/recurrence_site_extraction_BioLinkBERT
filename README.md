@@ -8,7 +8,7 @@ Following are the steps to be followed to run the repo:
 Activate the conda environment using the following command:
 >conda activate PE
 
-2. **Run BreastRecurrence_Transformer GitHub repository:** To make your notes suitable for using this repository, run the BreastRecurrence_Transformer GitHub repository (given below) first on your notes. This will generate 4 files, namely: Patient_encounters.csv, pred_recur.csv, preprocessed_notes.csv, quarters.csv. Out of which `pred_recur.csv` is the main file that will be used further.
+2. **Run BreastRecurrence_Transformer GitHub repository:** To make your notes suitable for using this repository, first run the BreastRecurrence_Transformer GitHub repository (given below) on your notes. This will generate 4 files, namely: Patient_encounters.csv, pred_recur.csv, preprocessed_notes.csv, quarters.csv. Out of which `pred_recur.csv` is the main file that will be used further.
 
 >https://github.com/imonban/BreastRecurrence_Transformer
 
