@@ -15,7 +15,7 @@ Activate the conda environment using the following command:
 The above repository curates the text for every 1 month and predicts whether a patient has recurrence during that interval. The main columns of `pred_recur` file are: `PATIENT_ID,START_DATE, END_DATE, text, Prediction`.
 The `text` column is used in our repository to extract the sites of distant recurrence. 
 
-3. **Set config.json file**: Now set two fields in the `config.json` file:
+3. **Set paths in configuration file**: Now set two fields in the `param_config.json` file:
 
 - input_file_path (path of pred_recur file)
 - output_folder
