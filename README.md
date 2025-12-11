@@ -1,7 +1,8 @@
 This GitHub repository extracts the sites of distant recurrence for breast cancer patients from the free-text notes (clinical/radiology/pathology notes) using task specific fine-tuned BioLinkBERT model. This model was fine-tuned with recurrence relevant text from notes curated for every 1 month. 
 
 # Inference
-Create conda environment using the following command:
+Following are the steps to be followed to run the repo:
+1. *Create conda environment* using the following command:
 >conda create -f environment.yml
 
 Activate the conda environment using the following command:
